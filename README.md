@@ -1,5 +1,5 @@
 # My vimrc
-This is my simple vimrc which i use at my work.
+This is my simple vimrc which i use at work.
 
 # How to install?
 To install my vimrc do following:
